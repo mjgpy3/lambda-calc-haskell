@@ -1,0 +1,5 @@
+{
+  "exe": "runhaskell",
+  "main": "src/LambdaCalc.hs",
+  "specVersion": 0
+}
